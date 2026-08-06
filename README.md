@@ -84,7 +84,7 @@ My goal is to continuously enhance my technical expertise, contribute to impactf
 |---------|-------------|------------|
 | 📦 **Warehouse Operations Analytics Dashboard** | Interactive Power BI dashboard for warehouse KPIs, inventory, sales & order analysis. | Power BI |
 | 📊 **Social Media Campaign Analysis** | Interactive Power BI dashboard for analyzing social media campaign performance. | Power BI |
-| 📈 **Excel Dashboard** | Dynamic reports using Pivot Tables, Charts & Slicers. | Microsoft Excel |
+| 📈 **Hospital ER Dashboard** | Dynamic reports using Pivot Tables, Charts & Slicers. | Hyper Link | Microsoft Excel |
 | 🗄️ **SQL Business Analysis** | SQL queries to solve real-world business problems and generate insights. | SQL, MySQL |
 | 🌐 **Haven Analytics Dashboard** | Responsive analytics dashboard built using Chart.js. | HTML, CSS, JavaScript |
 | 🐍 **Python Data Analysis** | Data Cleaning, EDA and Visualizations using Python. | Python, Pandas |
